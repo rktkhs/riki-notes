@@ -1,4 +1,3 @@
 # riki-notes
-Personal and work notes. Created on iPhone.
-This is my first GitHub repository. Created on iPhone.
-This repository is used to learn GitHub step by step.
+個人用・仕事用のメモです（iPhoneで作成）。
+GitHubの使い方を少しずつ学ぶためのリポジトリです。
